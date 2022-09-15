@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Iris Predictor</string>
+    <string name="textview">TextView</string>
 </resources>
